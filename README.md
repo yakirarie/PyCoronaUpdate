@@ -3,10 +3,10 @@
 
  Run by double clicking the Corona Update.exe file.
  
-###Start Screen:
+### Start Screen:
 ![Start Screen](images/Capture.PNG)
 
-##Country Graph Stats:
+## Country Graph Stats:
 * <u><b>Confirmed Cases</u>:</b>
   ![Country Selection](images/Capture2.PNG)
   
