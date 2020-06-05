@@ -1,7 +1,7 @@
 # PyCoronaUpdate
  A desktop application about the stats of the global corona pandemic.
 
- run by double clicking the Corona Update.exe file.
+ Run by double clicking the Corona Update.exe file.
  
  ###Start Screen:
  ![Start Screen](images/Capture.PNG)
