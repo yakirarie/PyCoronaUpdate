@@ -8,15 +8,19 @@
 
 ## Country Graph Stats:
 * <u><b>Confirmed Cases</u>:</b>
+
   ![Country Selection](images/Capture2.PNG)
   
 * <u><b>Death Cases</u>:</b>
+
  ![Country Selection](images/Capture3.PNG)
   
 * <u><b>Recovered Cases</u>:</b>
+
  ![Country Selection](images/Capture4.PNG)
   
 * <u><b>Actives Cases</u>:</b>
+
  ![Country Selection](images/Capture5.PNG)
 
 <u><b>Modules</u>:</b> Pyqt5, PyqtChart, requests.
