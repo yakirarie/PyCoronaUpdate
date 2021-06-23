@@ -110,7 +110,7 @@ class MainApp(QDialog):
 
         chart = QChart()
         chart.setTitle(self.current_country + " Cases Graph")
-        max_value = max([report['Cases'] for report in self.country_data['confirmed']])
+        max_value = max([report['Cases'] for report in self.country_data[status]])
         total_cases = [cases for cases in [report['Cases'] for report in self.country_data[status]]]
         total_dates = [dates for dates in [report['Date'] for report in self.country_data[status]]]
         months_data = {}
